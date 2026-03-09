@@ -21,7 +21,8 @@ BigQuery Soccer Data Ingestion: Importing external sports data sources into BigQ
    - LOAD JSON DATA - sql:
    <img src="./Images/loadData_table_matches.png" height="300" width="300">
 3. Create Table console:
-   <img src="./Images/create_table_competitions.png" height="300" width="300">
+
+<img src="./Images/create_table_competitions.png" height="300" width="300">
 
 5. Preview tables:   
 <img src="./Images/tables_created.png" height="300" width="300">
