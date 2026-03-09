@@ -21,14 +21,12 @@ BigQuery Soccer Data Ingestion: Importing external sports data sources into BigQ
    - LOAD JSON DATA - sql:
    <img src="./Images/loadData_table_matches.png" height="300" width="300">
 3. Create Table console:
-
    <img src="./Images/create_table_competitions.png" height="300" width="300">
 
-5. Preview tables:
-   
+5. Preview tables:   
 <img src="./Images/tables_created.png" height="300" width="300">
 
-##Querrying:
+## Querrying:
 ###  1. Query player data:
 ##### Top 10 tallest defenders (for whom height is available) in the players table.
 <img src="./Images/player_height_sql.png" height="300" width="300">
